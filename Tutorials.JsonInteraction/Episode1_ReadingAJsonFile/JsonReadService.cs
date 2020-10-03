@@ -8,7 +8,7 @@ using Newtonsoft.Json.Linq;
 
 namespace Tutorials.JsonInteraction
 {
-    public class JsonService
+    public class JsonReadService
     {
 
         public static void ReadJsonFile(string jsonFileIn)

@@ -8,7 +8,7 @@ namespace Tutorials.JsonInteraction
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, welcome to my application!");
-            JsonService.ReadJsonFile(AskForJsonFileName());
+            JsonReadService.ReadJsonFile(AskForJsonFileName());
         }
 
         public static string AskForJsonFileName()
