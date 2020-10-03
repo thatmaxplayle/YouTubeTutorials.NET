@@ -1,0 +1,8 @@
+{
+    "today_video": "C# JSON Tutorial",
+    "video_information": {
+        "title": "Working with JSON in C#!",
+        "creator": "Max Playle",
+        "purpose": "To teach people how to interact with JSON files in their C# code."
+    }
+}
