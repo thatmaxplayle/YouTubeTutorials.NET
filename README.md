@@ -7,7 +7,7 @@ If you have any questions you can contact me using one of the following:
 
 - Comment on my YouTube vidoes! I try to respond to comments as soon as I notice them!
 - Tweet me! https://www.twitter.com/thatmaxplayle
-- Add me on Discord! @maxplayledev#8811 (or preferrably, join my server: https://dsc.gg/maxshangout)
+- Add me on Discord! @thatmaxplayle#8811 (or preferrably, join my server: https://dsc.gg/maxshangout)
 
 *Thank you for watching my videos, and looking at my repos!*
 If you have any particular requests for videos, programming or not, please let me know and I will get on with making them!
